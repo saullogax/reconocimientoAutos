@@ -1,0 +1,40 @@
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.csprojResolveAssemblyReference.cache
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar_Carros.Form1.resources
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar_Carros.Properties.Resources.resources
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.csproj.GenerateResource.Cache
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\Detectar Carros.exe
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\Detectar Carros.pdb
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\Emgu.CV.UI.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\Emgu.CV.World.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\ZedGraph.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\Emgu.CV.UI.xml
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\Emgu.CV.World.xml
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.exe
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.pdb
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\concrt140.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\cvextern.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\msvcp140.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\opencv_ffmpeg341.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\vcruntime140.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\opencv_ffmpeg341_64.dll
+c:\users\lr17\documents\visual studio 2010\Projects\Detectar Carros\Detectar Carros\bin\Debug\cvextern.lib
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\concrt140.dll
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\cvextern.dll
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\msvcp140.dll
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\opencv_ffmpeg341.dll
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\opencv_ffmpeg341_64.dll
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\vcruntime140.dll
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\cvextern.lib
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\Detectar Carros.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\Detectar Carros.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\Emgu.CV.UI.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\Emgu.CV.World.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\bin\Debug\WindowsFormsApplication1.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.csprojResolveAssemblyReference.cache
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar_Carros.Form1.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar_Carros.Properties.Resources.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\kelvin\Detectar Carros\Detectar Carros\obj\x86\Debug\Detectar Carros.csproj.GenerateResource.Cache
